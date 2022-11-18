@@ -1,7 +1,7 @@
 {
     "name": "DogeCollie",
     "description": "DogeCollie.",
-    "image": "external-link-url/image.png",
+    "image": "https://raw.githubusercontent.com/kasodesyn/DogeCollie/main/contract/logo.jpeg",
     "external_link": "",
     "seller_fee_basis_points": 500,
     "fee_recipient": "0x46Eb6E2a33c608026Acdb04B9CD00085e86d5FF7"
