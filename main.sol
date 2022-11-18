@@ -41,7 +41,7 @@ contract Avator is ERC721 {
         }
     }
 
-    function setBaseURI(string memory baseURI_) external onlyOwner {
+    function setBaseURI(string memory baseURI_) external onlyManager {
         baseURI = baseURI_;
     }
 
